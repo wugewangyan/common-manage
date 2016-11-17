@@ -49,7 +49,7 @@
 	<!-- email properties -->
 	<mail-version>1.4.5</mail-version>
 	<!-- template properties -->
-	<freemarker-version>2.3.23</freemarker-version>
+	<freemarker-version>2.3.22</freemarker-version>
 	<velocity-version>1.7</velocity-version>
 	<velocity-tools-version>2.0</velocity-tools-version>
 
